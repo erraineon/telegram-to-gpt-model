@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TelegramToGptModel": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\errai\\Downloads\\Telegram Desktop\\ChatExport_2021-09-10\""
+    }
+  }
+}
